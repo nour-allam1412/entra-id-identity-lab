@@ -178,6 +178,6 @@ Microsoft Entra ID administration, bulk user provisioning (CSV), security groups
 ## Repository contents
 
 ```
-/README.md              this file
-/data/users-sample.csv  sample user file (passwords masked)
+/README.md                      this file
+/data/users-sample.csv          sample user file (passwords masked)
 ```
